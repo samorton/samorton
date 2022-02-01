@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samorton
-- 👀 I’m interested in C# / Dotnet, Golang, Rust, C++, Architecture patterns, IOT, SQL Server, Oracle, and a bit of Java
+- 👀 I’m interested in C# / Dotnet,  Rust, Golang, Graph Databases & Gremlin especially AWS Neptune, Oracle, SQL Server, IOT,  C++, and a bit of Java
 - 🌱 I’m currently learning Rust and Golang
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me sam.orton@gmail.com
 
 <!---
